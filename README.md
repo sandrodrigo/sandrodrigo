@@ -53,4 +53,4 @@ Tenho como objetivo unir minha experiência em processos industriais com conheci
 
 ### 📫 Contato
 
-LinkedIn: https://www.linkedin.com/in/rodrigo-sand-5a313726a
+LinkedIn: https://www.linkedin.com/in/rodrigosand
