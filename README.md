@@ -1,16 +1,56 @@
-## Hi there 👋
+## Olá, eu sou Rodrigo Sand 👋
 
-<!--
-**sandrodrigo/sandrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor de Software | Programação | Python | SQL
 
-Here are some ideas to get you started:
+Profissional com experiência em Metrologia, Controle da Qualidade e processos industriais, atualmente direcionando minha carreira para Desenvolvimento de Software e Tecnologia da Informação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha experiência na indústria me permite compreender problemas reais de processos e transformá-los em oportunidades para desenvolvimento de soluções tecnológicas.
+
+### 🚀 Atualmente estudando e desenvolvendo
+
+* 🐍 Python
+* 🗄️ SQL e Banco de Dados
+* 💻 Desenvolvimento de Software
+* ⚙️ Automação de Processos
+* 🧠 Lógica de Programação
+* 🏗️ Engenharia de Software
+* 🔗 APIs
+* 🔧 Git e GitHub
+
+### 📌 Projetos
+
+#### 🔹 Sistema de Gestão de Calibrações
+
+Aplicação para gerenciamento de instrumentos de medição, calibrações, vencimentos, histórico e indicadores.
+
+**Tecnologias:** Python | SQL | Git
+
+#### 🔹 Sistema de Controle de Não Conformidades
+
+Sistema para registro, acompanhamento e análise de não conformidades e ações corretivas.
+
+**Tecnologias:** Python | SQL | Banco de Dados
+
+#### 🔹 Dashboard de Indicadores da Qualidade
+
+Solução para organização, tratamento e visualização de indicadores de processos e qualidade.
+
+**Tecnologias:** Python | SQL | Power BI
+
+### 🎯 Objetivo profissional
+
+Busco oportunidades na área de Tecnologia, especialmente em:
+
+* Desenvolvimento de Software
+* Desenvolvimento Backend
+* Programação
+* Desenvolvimento de Sistemas
+* Python
+* Análise e Desenvolvimento de Sistemas
+* Automação de Processos
+
+Tenho como objetivo unir minha experiência em processos industriais com conhecimentos em tecnologia para desenvolver soluções eficientes e gerar valor para as organizações.
+
+### 📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/rodrigo-sand-5a313726a
